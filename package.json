@@ -2,7 +2,6 @@
   "name": "startbootstrap-new-age",
   "version": "0.0.0",
   "license": "MIT",
-  "angular-cli": {},
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -15,6 +14,7 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "5.0.5",
+    "@angular/cli": "^1.7.3",
     "@angular/common": "5.0.5",
     "@angular/compiler": "5.0.5",
     "@angular/core": "5.0.5",
@@ -31,11 +31,10 @@
     "zone.js": "^0.8.5"
   },
   "devDependencies": {
-    "@angular/cli": "1.5.5",
+    "@angular/cli": "^1.7.3",
     "@angular/compiler-cli": "5.0.5",
     "@types/jasmine": "2.5.38",
     "@types/node": "^6.0.60",
-    "angular-cli": "1.0.0-beta.24",
     "bower": "^1.8.0",
     "codelyzer": "~2.0.0-beta.1",
     "concurrently": "^3.1.0",
