@@ -7,6 +7,6 @@ import {Component} from "@angular/core";
 
 export class MainNavComponent {
 
-  private title: string = "Start Bootstrap"
+  public title: string = "Start Bootstrap"
 
 }
